@@ -300,8 +300,8 @@ var Laya=window.Laya=(function(window,document){
 		__class(LayaSample,'LayaSample');
 		var __proto=LayaSample.prototype;
 		__proto.mouseHandler=function(e){
-			var foo=new Foo();
-			foo.barbarbar();
+			var myfoo=new Foo();
+			myfoo.barbarbar();
 		}
 
 		return LayaSample;

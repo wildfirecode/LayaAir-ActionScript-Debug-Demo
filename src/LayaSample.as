@@ -9,8 +9,8 @@
 		}
 
 		private function mouseHandler(e:Event=null):void {
-			var foo = new Foo();
-			foo.barbarbar();
+			var myfoo:Foo = new Foo();
+			myfoo.barbarbar();
 		}
 	}
 }
