@@ -276,15 +276,34 @@ var Laya=window.Laya=(function(window,document){
 	})()
 
 
+	//class Foo
+	var Foo=(function(){
+		function Foo(){}
+		__class(Foo,'Foo');
+		var __proto=Foo.prototype;
+		__proto.barbarbar=function(){
+			console.log('bar bar bar.');
+		}
+
+		return Foo;
+	})()
+
+
 	//class LayaSample
 	var LayaSample=(function(){
 		function LayaSample(){
 			Laya.init(1136,640);
-			console.log(2)
-			throw Error(1)
+			console.log('hello laya.');
+			Laya.stage.on("click",this,this.mouseHandler);
 		}
 
 		__class(LayaSample,'LayaSample');
+		var __proto=LayaSample.prototype;
+		__proto.mouseHandler=function(e){
+			var foo=new Foo();
+			foo.barbarbar();
+		}
+
 		return LayaSample;
 	})()
 

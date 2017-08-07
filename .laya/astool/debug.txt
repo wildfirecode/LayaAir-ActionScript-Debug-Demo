@@ -1,2 +1,19 @@
-Project configuration:d:\Documents\myLayaaaaqaaaaaqqsaaaaaaaareqaaaaasaaqq/.actionScriptProperties.
+1,0.00,,0,Project command:d:\blog-demo\LayaAir-ActionScript-Debug-Demo/.actionScriptProperties;iflash=false;windowshow=false;chromerun=false;quickcompile=true
+Project configuration:d:\blog-demo\LayaAir-ActionScript-Debug-Demo/.actionScriptProperties.
+1,0.00,,0,output path:d:/blog-demo/LayaAir-ActionScript-Debug-Demo/bin/h5/
+1,0.00,,0,Main Class:d:/blog-demo/LayaAir-ActionScript-Debug-Demo/src/LayaSample.as
+1,0.00,,0,output file:LayaSample
+1,0.00,,0,compilerSourcePath d:/blog-demo/LayaAir-ActionScript-Debug-Demo/libs/laya/src/
+
+1,0.00,,0,Compile Path:d:/blog-demo/LayaAir-ActionScript-Debug-Demo/src/
+
+1,0.00,,0,Compile Path:d:/blog-demo/LayaAir-ActionScript-Debug-Demo/libs/laya/src/
+
+1,0.00,d:/blog-demo/LayaAir-ActionScript-Debug-Demo/src,0,Collect
+1,0.00,d:/blog-demo/LayaAir-ActionScript-Debug-Demo/libs/laya/src,0,Collect
+1,2.00,,0,read class message
+1,89.71,,0,Disable Flash3D d:/blog-demo/LayaAir-ActionScript-Debug-Demo/src/LayaSample.as
+12,89.71,d:/blog-demo/LayaAir-ActionScript-Debug-Demo/bin/h5/LayaSample.max.js,452087,
+11,89.71,d:/blog-demo/LayaAir-ActionScript-Debug-Demo/bin/h5/LayaSample.max.html,893,
 ******************************************************************************
+14,89.71,,0,
