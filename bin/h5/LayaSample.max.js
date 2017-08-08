@@ -306,6 +306,7 @@ var Laya=window.Laya=(function(window,document){
 		var __proto=LayaSample.prototype;
 		__proto.mouseHandler=function(e){
 			var myfoo=new Foo();
+			myfoo.barbarbar();
 			myfoo.baz();
 		}
 

@@ -1,0 +1,7 @@
+{
+    "search.exclude": {
+        "**/src": true,
+        "**/libs": true,
+        "**/laya": true
+    }
+}
