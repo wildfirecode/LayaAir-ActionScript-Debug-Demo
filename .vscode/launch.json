@@ -7,7 +7,12 @@
             "name": "Launch Chrome against localhost",
             "file": "${workspaceRoot}/bin/h5/index.html",
             "webRoot": "${workspaceRoot}",
-            "userDataDir": "${workspaceRoot}/.userdata"
+            "userDataDir": "${workspaceRoot}/.userdata",
+            "runtimeArgs": [
+                "--allow-file-access-from-files",
+                "--allow-file-access-frome-files",
+                " --disable-web-security"
+            ]
         },
         {
             "type": "chrome",
