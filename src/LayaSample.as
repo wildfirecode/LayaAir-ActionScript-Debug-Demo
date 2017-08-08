@@ -10,7 +10,8 @@
 
 		private function mouseHandler(e:Event=null):void {
 			var myfoo:Foo = new Foo();
-			myfoo.barbarbar();
+			// myfoo.barbarbar();
+			myfoo.baz();
 		}
 	}
 }

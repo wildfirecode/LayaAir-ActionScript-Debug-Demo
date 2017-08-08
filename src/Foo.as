@@ -8,5 +8,10 @@ package {
         public function barbarbar() {
             trace('bar bar bar.');
         }
+
+		public function baz() {
+			var a;
+			a.b();
+		}
 	}
 }
